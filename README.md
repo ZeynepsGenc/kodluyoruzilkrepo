@@ -19,5 +19,11 @@ code .
 
     Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-   # License
+</head>
+<body>
+    <h1>License</h1>
+
+MIT
+
+
 
