@@ -3,7 +3,6 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
     
 </head>
 <body>
-   
     <h1>Installation</h1>
 
 <p> https://github.com/ZeynepsGenc/kodluyoruzilkrepo.git
