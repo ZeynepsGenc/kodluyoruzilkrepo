@@ -11,5 +11,5 @@ https://github.com/ZeynepsGenc/kodluyoruzilkrepo.git
     cd kodluyoruzilkrepo
 code .
 
-    <h2>Contributing</h2>
+    <h3>Contributing</h3>
 
