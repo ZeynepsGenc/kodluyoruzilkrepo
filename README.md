@@ -10,10 +10,14 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 </head>
 <body>
     <h2>Usage</h2>
-    cd kodluyoruzilkrepo
+  cd kodluyoruzilkrepo
 code .
 
 </head>
 <body>
     <h3>Contributing</h3>
+
+    Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+   # License
 
