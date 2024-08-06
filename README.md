@@ -1,7 +1,6 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-
-    <title>Document</title>
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası bir adet index.html barındırıyor.
+    
 </head>
 <body>
     <h1>Installation</h1>
@@ -9,6 +8,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 https://github.com/ZeynepsGenc/kodluyoruzilkrepo.git
 
     <h2>Usage</h2>
+    
     cd kodluyoruzilkrepo
 code .
 
