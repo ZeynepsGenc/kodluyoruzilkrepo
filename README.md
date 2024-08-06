@@ -8,9 +8,9 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 
 https://github.com/ZeynepsGenc/kodluyoruzilkrepo.git
 
-    <h1>Usage</h1>
+    <h2>Usage</h2>
     
     cd kodluyoruzilkrepo
 code .
 
-    <h1>Contributing</h1>
+    <h3>Contributing</h3>
