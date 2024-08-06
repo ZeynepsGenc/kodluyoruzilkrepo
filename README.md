@@ -4,7 +4,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 </head>
 <body>
 
-    <h1>Installation</h1>
+    # Installation
 
 https://github.com/ZeynepsGenc/kodluyoruzilkrepo.git
 
